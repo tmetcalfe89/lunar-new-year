@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/lunar-new-year/static/js/main.e8e988b6.js",
+    "static/media/tiger.png": "/lunar-new-year/static/media/tiger.b73ae31bc2aa5a79e611.png",
+    "static/media/dragon.png": "/lunar-new-year/static/media/dragon.0ed31ade4ea1f1ae5573.png",
+    "static/media/ox.png": "/lunar-new-year/static/media/ox.5258b0e249136aaf2493.png",
+    "static/media/horse.png": "/lunar-new-year/static/media/horse.9391a51adb66ee543387.png",
+    "static/media/goat.png": "/lunar-new-year/static/media/goat.867f35a3aec2a8a962d5.png",
+    "static/media/monkey.png": "/lunar-new-year/static/media/monkey.1394f50de00c31da1e34.png",
+    "static/media/snake.png": "/lunar-new-year/static/media/snake.adb7699fe86d113da9e7.png",
+    "static/media/rooster.png": "/lunar-new-year/static/media/rooster.2939f2bebe1e26cc9356.png",
+    "static/media/dog.png": "/lunar-new-year/static/media/dog.6792270e4f6be5d008be.png",
+    "static/media/pig.png": "/lunar-new-year/static/media/pig.dc947ec2164f0179c206.png",
+    "static/media/rabbit.png": "/lunar-new-year/static/media/rabbit.142f493dc6ffe2995b94.png",
+    "static/media/rat.png": "/lunar-new-year/static/media/rat.8a802110bae70d9de794.png",
+    "index.html": "/lunar-new-year/index.html",
+    "main.e8e988b6.js.map": "/lunar-new-year/static/js/main.e8e988b6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e8e988b6.js"
+  ]
+}
