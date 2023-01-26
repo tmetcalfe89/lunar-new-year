@@ -19,12 +19,13 @@ function App() {
         style={{
           ...animalStyle,
           opacity: `${Math.max(daysRemaining / 365, 0.15)}`,
+          zIndex: daysRemaining > 100 ? 2 : 1
         }}
         src={Zodiac[currentAnimal]}
         alt={currentAnimal}
       />
       <img
-        style={{ ...animalStyle, opacity: `${(365 - daysRemaining) / 365}` }}
+        style={{ ...animalStyle, opacity: `${Math.max((365 - daysRemaining) / 365, 0.15)}` }}
         src={Zodiac[nextAnimal]}
         alt={nextAnimal}
       />
